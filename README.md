@@ -1,0 +1,2 @@
+# aidTech__Iris_Flower_Classification
+A machine learning model that can classify the species of an iris flower based on its sepal and petal length and width.
